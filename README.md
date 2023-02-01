@@ -19,6 +19,12 @@ En la data de Edx trabaje con la correlación de entre el precio y el numero de 
 
 Esta correlación es negativa, nos dice que los puntos y las asistencias están correlacionados negativamente. Esto quiere decir que a medida que aumentan los valores en la columna de precios, los valores en la columna de numero de inscristos tienden a disminuir.
 
+![Captura de pantalla (146)](https://user-images.githubusercontent.com/67377571/216085626-4d532f2f-c2d7-4363-9f96-1098c8230963.png)
+
+
+Grafico de los niveles de cursos en plataforma edx
+
+
 ![Captura de pantalla (144)](https://user-images.githubusercontent.com/67377571/216084850-b7fe7464-c4d7-4c9e-b6f6-e1fe38b90d18.png)
 
 
