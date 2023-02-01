@@ -2,6 +2,8 @@
 
 Unos de los pricipeles cometidos de este proyecto era evaluar que tanto influian en el nivel de ventas las variables según idioma, nivel y rating.
 
+Puede acceder as dashboar aqui -->> https://aramisjose-pi03-data-analitys-ded-yu0gje.streamlit.app/
+
 
 Se hizó el análisis exploratorio de datos y también el preprocesamiento y a mi parecer los datasets de Coursera no aportaban mucho al modelo de datos que queria hacer, igualmente limpie los archivos y los normalice para ver si por si acaso los necesitaba más adelante. Los datasets de las plataforma edx y udemy cumplian con el modelo que queria plantear y los limpie elimine duplicados y normalice algunas columnas luego hice un filtro por las columnas que necesitaba y trabaje con la correlación  estadistica para ver como se comportaba el precio con respecto a otras variables.
 
