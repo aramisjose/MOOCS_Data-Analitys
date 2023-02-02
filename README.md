@@ -19,7 +19,7 @@ Las columnas price y número de suscriptores se correlacionan positivamente. Mie
 
 En la data de Edx trabaje con la correlación de entre el precio y el numero de estudiantes inscriptos  y la correlación me daba de resultado -0.009482190720812004
 
-Esta correlación es negativa, nos dice que los puntos y las asistencias están correlacionados negativamente. Esto quiere decir que a medida que aumentan los valores en la columna de precios, los valores en la columna de numero de inscristos tienden a disminuir.
+Esta correlación es negativa, nos dice que los precios y los numeros de inscripciones están correlacionados negativamente. Esto quiere decir que a medida que aumentan los valores en la columna de precios, los valores en la columna de numero de inscristos tienden a disminuir.
 
 ![Captura de pantalla (146)](https://user-images.githubusercontent.com/67377571/216085626-4d532f2f-c2d7-4363-9f96-1098c8230963.png)
 
