@@ -2,7 +2,8 @@
 
 Unos de los principales cometidos de este proyecto era evaluar que tanto influian en el nivel de ventas las variables según idioma, nivel y rating.
 
-Puede acceder al dashboar aqui -->> https://aramisjose-pi03-data-analitys-ded-yu0gje.streamlit.app/
+Puede acceder al dashboar aqui -->> https://aramisjose-pi03-data-analitys-ded-yu0gje.streamlit.app/  
+O también puede leer este archivo :)
 
 
 EDX
@@ -89,6 +90,48 @@ Viendo los graficos anteriores se puede apreciar que existen una mayor demanda e
  
 UDEMY
 
+
+![nubeUdemy](https://github.com/aramisjose/MOOCS_Data-Analitys/assets/67377571/0daa2b29-73b5-4ad5-a239-4b8881d70541)
+
+
+Segmentación de los datos de acuerdo a los niveles en los cursos:
+
+![suscriptoresXnivel1](https://github.com/aramisjose/MOOCS_Data-Analitys/assets/67377571/0f112555-a30d-4520-aac4-dc3de821e776)
+
+
+Podemos apreciar de que los cursos todos los niveles y nivel principiantes son los que cuentan con más suscripciones pagadas,
+
+Tambien es importante ver en que niveles hay mas estudiantes inscriptos si el curso es gratis
+
+![suscriptoresXnivel](https://github.com/aramisjose/MOOCS_Data-Analitys/assets/67377571/45c0c0e9-3b47-4ea4-b41a-3e6c62fccdc7)
+
+Es logico que haya una mayor demanda en los cursos que son gratuitos no obstante seria genial establecer una estrategia de marketing que logren fidelizar dichos clientes que obtan por estos cursos de nivel gratuito.
+
+Segmentación del nivel de ventas segun el precio del curso:
+
+![preciosXnivel](https://github.com/aramisjose/MOOCS_Data-Analitys/assets/67377571/69e0348f-bef1-4d95-bbaf-cabb53319164)
+
+Ignorando el numero de suscriptores que adquieren los cursos gratuitos podemos apreciar que los cursos con un valor de 200 $ siendo el precio más alto tiene una mayor demanda con respecto a los precios más bajos.
+
+![Precios_udemy](https://github.com/aramisjose/MOOCS_Data-Analitys/assets/67377571/e7bcc2b4-46ab-4720-a8c6-f58c603935b3)
+
+Con repecto a los dos gráficos anteriores podemos apreciar de que a pesar de que no hay muchos cursos con el precio de 175$ es uno de los que más suscriptores tiene. Ahora bien podriamos preguntarnos que que tipos de curso con este precio son los que tienen mas suscriptores segmentaremos inmediatamente estas metricas.
+
+![torta175](https://github.com/aramisjose/MOOCS_Data-Analitys/assets/67377571/04fc2e16-573b-4885-9bf9-e339123a0ba9)
+
+Es impresionante ver que la mayor demanda en los cursos con mas suscriptores en precios de 175$ son los que estan relacionados con la programción web y business Finance, veremos si estas metricas se dan igual para cursos de 200$ y 30$
+
+![torta200](https://github.com/aramisjose/MOOCS_Data-Analitys/assets/67377571/a90cc608-af3b-48fc-bc76-0693c1178e0f)
+
+![torta30](https://github.com/aramisjose/MOOCS_Data-Analitys/assets/67377571/ed8e0505-415b-462e-9077-ba6bf0c4c3f5)
+
+
+En un top 3 podemos apreciar que en estos top de precios vemos que los cursos mas comprados son Musica instrumental, desarrollo web y diseño grafico, veremos a continuación que sucede si hacemos una vision general en todos los cursos de cualquier precio.
+
+![tortaGG](https://github.com/aramisjose/MOOCS_Data-Analitys/assets/67377571/feda7ae8-c823-4753-9d09-e53f31338fa7)
+
+
+Como primera recomendación ya podriamos decir que los cursos orientados a la programación y al desarrollo web asi como tambien los cursos de diseño grafico y finanzas son aquellos que deberiamos considerar para el modelo de negocio que se quiera implementar. 
 
 
 
