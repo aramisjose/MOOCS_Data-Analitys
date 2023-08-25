@@ -16,7 +16,7 @@ En esta instancia tenemos en porcentaje de suscritores por tipo de curso podemos
 
 ![TortaGGtipoCurso](https://github.com/aramisjose/MOOCS_Data-Analitys/assets/67377571/f2a1cc8d-b4ed-40ae-aef0-09b8e75836e1)
 
-Segmentación del nivel de ventas respecto a los tipos de nivel en los cursos 
+Segmentación del nivel de ventas respecto a los tipos de nivel en los cursos. 
 
 ![VentasXnivelCurso](https://github.com/aramisjose/MOOCS_Data-Analitys/assets/67377571/6d14f324-8682-46b7-b4e5-4db61a3c4d2a)
 
@@ -28,6 +28,17 @@ Podemos apreciar en el grafico anterior que existe una mayor demanda en el numer
 2_ Una vez terminado el nivel introductorio de un curso gran parte de los suscriptores sienten que pueden seguir aprendiendo de manera independiente. 
 
 3_ Pueden haber adquirido los cursos de nivel introductorio por tener un precio más económico sabremos de esto en el siguiente grafico.
+
+Precios por nivel:
+
+![PreciosXnivel](https://github.com/aramisjose/MOOCS_Data-Analitys/assets/67377571/f2d5ab85-29d4-43c6-b211-d810fe420ef0)
+
+Aquí es importante resaltar que a medida que los cursos suben de nivel los precios tienden a ser más altos.
+
+En el siguiente gráfico podemos vizualizar la frecuencia acumulada de cursos con el mismo precio.
+
+![FrecuenciaPrecios](https://github.com/aramisjose/MOOCS_Data-Analitys/assets/67377571/7b95a834-e6ec-4ceb-a185-de0d28755882)
+
 
 
 
