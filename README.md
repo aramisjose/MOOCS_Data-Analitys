@@ -39,10 +39,57 @@ En el siguiente gráfico podemos vizualizar la frecuencia acumulada de cursos co
 
 ![FrecuenciaPrecios](https://github.com/aramisjose/MOOCS_Data-Analitys/assets/67377571/7b95a834-e6ec-4ceb-a185-de0d28755882)
 
+Como son muchas instituciones con cursos en edx haremos un top 10 de las que tiene  más cursos y ver cuales tiene mayor impacto en el número de suscriptores.
+
+Harvard University                       103
+Universitat Politècnica de Valencia       47
+Massachusetts Institute of Technology     41
+Delft University of Technology            30
+IBM                                       30
+Inter-American Development Bank           29
+The University of Queensland              26
+The University of Michigan                22
+Tecnológico de Monterrey                  21
+Columbia University                       20
+
+![top10_instituciones](https://github.com/aramisjose/MOOCS_Data-Analitys/assets/67377571/538725c2-58a0-4fc3-a131-6ac6d6761832)
 
 
+Es de esperar que los cursos impartidos por la universidad de harvard sean los que tengan una mayor demanda de estudiantes mas sin embargo podemos ver como en el puesto dos a pesar en el top 7 de institutos con mas cursos se posiciona en segundo lugar con mayor cantidad de estudiantes y tambien los cursos de columbia university que a pesar de estar en el top 10 se posicisiona en el tercer lugar con mayor cantidad en matricula de estudiantes, analizaremos inmediatamente por separado que tipos de cursada imparten estos institutos y cual es su impacto en el mercado.
 
-EDX
+Ahora veremos que tipos de cursos tienen mayor demanda en la universidad de queensland.
+
+![queensland](https://github.com/aramisjose/MOOCS_Data-Analitys/assets/67377571/9c1fdaa9-5f89-4ee7-ab22-a3deaf90c5ab)
+
+En un top3 de los cursos con mas matricula de estudiantes estan los cursos de Comunicación con un 61.5%, Gestion de negocios con un 10.2% de la matricula y Humanidades con un  8.4% de la matricula. Siendo estos cursos los más atrativos o con mayor cantidad de suscriptores dentro de esta universidad. Coincidiendo as los cursos de Comunicacion con el top general que se hizo en el grafico de porcentaje de alumnos por tipo de curso.
+
+Ahora veremos que tipos de cursos tienen mayor demanda en la universidad de columbia.
+
+![Columbia](https://github.com/aramisjose/MOOCS_Data-Analitys/assets/67377571/8bc8ad33-79ac-4fbc-9268-a3874ba1a1ff)
+
+ Uno de los cursos con mayor demanda en la universidad de Queensland son los de computer science, cursos relacionados a estos temas se pueden sugerir al modelo de negocios que se quiera plantear.
+
+Segmentación del nivel de ventas segun los subtitulos
+
+![demandaXsubtitulos](https://github.com/aramisjose/MOOCS_Data-Analitys/assets/67377571/dee03493-1de7-4c23-9f4e-e3bea8895884)
+
+La cantidad de suscritores donde el curso solo tiene el subtitulo de Italiano es muy alta a pesar de que solo hay 4 cursos con esta condición a diferencia de que los cursos con el subtitulo Ingles son mas de 700 cursos presentes en el dataset. Se sugiere implementar los cursos con subtitulo italiano y también con subtitulo Español, Frances, Portugues y Aleman.
+
+Demanda de los cursos con dos subtitulos:
+
+![subtitulos2](https://github.com/aramisjose/MOOCS_Data-Analitys/assets/67377571/f72decdf-b437-4c92-a3d4-3ec74e8de958)
+
+Demanda de los cursos con tres subtitulos:
+
+![subtitulos3](https://github.com/aramisjose/MOOCS_Data-Analitys/assets/67377571/61d520a0-230f-41ef-b03e-9db46906addd)
+
+
+Viendo los graficos anteriores se puede apreciar que existen una mayor demanda en los cursos en ingles pero en conjunto con otros lenguajes los cuales son los mas destacados en esta data como lo son: Español, Italiano, Aleman, Portugues, Frances y Chino. 
+
+ 
+UDEMY
+
+
 
 
 
