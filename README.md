@@ -13,7 +13,7 @@ En este apartado estaremos dando un breve contexto de las metricas interesantes 
 ![nubEdx](https://github.com/aramisjose/MOOCS_Data-Analitys/assets/67377571/5d487792-98bf-4fed-858d-39c832c994cd)
 
 
-En esta instancia tenemos en porcentaje de suscritores por tipo de curso podemos apreciar que en top 5 los cursos con mayor demanda son comunicación, arquitectura, computación, analisis de datos + estadisticas y humanidades. Evaluaremos más de cerca las metricas en el dataset para dar una conclusión  de porque existen más suscriptores en estos tipos de cursos.
+En esta instancia tenemos en porcentaje de suscritores por tipo de curso podemos apreciar que en top 5 los cursos con mayor demanda son comunicación, arquitectura, computación, analisis de datos más estadisticas y humanidades. Evaluaremos más de cerca las metricas en el dataset para dar una conclusión  de porque existen más suscriptores en estos tipos de cursos.
 
 ![TortaGGtipoCurso](https://github.com/aramisjose/MOOCS_Data-Analitys/assets/67377571/f2a1cc8d-b4ed-40ae-aef0-09b8e75836e1)
 
