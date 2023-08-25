@@ -131,7 +131,10 @@ En un top 3 podemos apreciar que en estos top de precios vemos que los cursos ma
 ![tortaGG](https://github.com/aramisjose/MOOCS_Data-Analitys/assets/67377571/feda7ae8-c823-4753-9d09-e53f31338fa7)
 
 
-Como primera recomendación ya podriamos decir que los cursos orientados a la programación y al desarrollo web asi como tambien los cursos de diseño grafico y finanzas son aquellos que deberiamos considerar para el modelo de negocio que se quiera implementar. 
+En conclusión tenemos como primera recomendación los cursos orientados a la programación y al desarrollo web asi como tambien los cursos de diseño grafico y finanzas son aquellos que deberiamos considerar para el modelo de negocio que se quiera implementar. Ademas es muy importante resaltar que los cursos de la universidad de Queenslands y Columbia suelen ser muy atractivos para los estudiantes. Tambin es importante resaltar como se vio en los datos que a pesar de tener menos cantidad de cursos de un valor más elevado no tiene un gran diferencia con los cursos que son mas baratos al contrario a pesar de ser menos los cursos con valor más alto estos suelen tener una gran demanda de estudiantes y se debe estos estan orientados a enseñar a los estudiantes las habilidades más demandadas en el mercado autual asi como también un curso más caro puede que le ofrezca al estudiante la mejor experiencia de aprendizaje o que dicho curso este mejor elaborado. En otro caso tenemos la implementación de de varios subtitulos por curso ya que al satisfacer la demanda de estudiantes en difentes regiones del mundo se podra ser más competitivo respecto a las diferentes instituciones que hoy por hoy imparten cursos en linea como un modelo de negocio.
+
+
+
 
 
 
